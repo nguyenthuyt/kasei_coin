@@ -42,7 +42,7 @@ To compile and deploy the file using the following steps:
 ![Remix Coin Link](Evaluation_Evidence/link_kaseiCoin.PNG)
 
 - Repeat the same steps as above to link the KaseiCoinCrowdsale contract but using the 'kasei_crowdsale_address'
-![Remix Crowdsale Link](Evaluation_Evidence/link_kaseiCoinCrowdsale.PNG)
+![Remix Crowdsale Link](Evaluation_Evidence/link_KaseiCoinCrowdsale.PNG)
 
 ## Test Purchase of Tokens
 
