@@ -47,7 +47,7 @@ To compile and deploy the file using the following steps:
 ## Test Purchase of Tokens
 
 - In the value input box, specify an amount to purchase. In this instance, we selected 5 wei.
-![Remix Buy Tokens](Evaluation_Evidence/buy_tokens_wei.PNG)
+![Remix Buy Tokens](Evaluation_Evidence/buy_tokens_wei.png)
 
 - From the KaseiCoinCrowdsale contract, in the field next to 'Buy Tokens', insert a beneficiary (investor) address and click the 'Buy Tokens' button
 ![Remix Buy Tokens](Evaluation_Evidence/buy_tokens.PNG)
